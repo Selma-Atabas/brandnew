@@ -4,5 +4,7 @@ public class conflict {
         System.out.println("this is practice to solve conflict");
 
         System.out.println("Sill realy awesome hello");
+
+        System.out.println("drop this");
     }
 }
